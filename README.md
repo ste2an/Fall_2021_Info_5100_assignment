@@ -1,5 +1,5 @@
 # INFO5100-2021Fall-assignment
-## [assignment1](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment1/Question1.java)
+## [assignment1](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment1)
  * [Question 1: leetcode-1748](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment1/Question1.java)
  * [Question 2: leetcode-997](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment1/Question2.java)
  * [Question 3: Find first non repeated integer in an array.](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment1/Question3.java)
