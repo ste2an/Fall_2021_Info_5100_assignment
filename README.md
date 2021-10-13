@@ -8,6 +8,8 @@
  * [Question 5](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment1/Question5.java)
 
 ## [assignment2](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment2)
+*  [Q1](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment2/question1)
+*  [Q2](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment2/question2)
  * [leetcode-867](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment2/leetcode/TransposeMatrix.java)
  * [leetcode-243](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment2/leetcode/ShortestWordDistance.java)
  * [leetcode-288](https://github.com/ste2an/Fall_2021_Info_5100_assignmentt/blob/main/src/assignment2/leetcode/MoveZeroes.java)
