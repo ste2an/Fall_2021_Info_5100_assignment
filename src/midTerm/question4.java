@@ -39,7 +39,9 @@ public class question4 {
             }
 
             int curLen = r - l + 1;
+
             if(curLen > sz) {
+
                 sz = curLen;
                 res = s.substring(l, r + 1);
             }
