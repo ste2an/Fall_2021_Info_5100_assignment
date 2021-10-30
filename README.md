@@ -20,3 +20,8 @@
  * [leetcode-125](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment2/leetcode/Palindrome.java)
  * [leetcode-151](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment2/leetcode/ReverseString.java)
  * [leetcode-443](https://github.com/ste2an/Fall_2021_Info_5100_assignment/blob/main/src/assignment2/leetcode/StringCompression.java)
+ 
+ 
+ ## [assignment3](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment3)
+ *  [Q1](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment3/q1)
+ *  [Q2](https://github.com/ste2an/Fall_2021_Info_5100_assignment/tree/main/src/assignment3/q2)
